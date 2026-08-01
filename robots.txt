@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coderoyd.github.io/afloat/sitemap.xml
