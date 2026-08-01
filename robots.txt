@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://afloat.roydsantiago.com/sitemap.xml
